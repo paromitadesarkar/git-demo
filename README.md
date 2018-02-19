@@ -1,3 +1,3 @@
-#DEMO GIT REPOSITORY
+# Demo Git Repository
 
-hello
+First file in this repo
